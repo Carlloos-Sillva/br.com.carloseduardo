@@ -1,2 +1,2 @@
 # br.com.carloseduardo
- Projeto de desenvolvimento web com framework Spring Tool Suite
+Treinamento de criação sistema de cadastro em site - Projeto de desenvolvimento web com framework Spring Tool Suite.
